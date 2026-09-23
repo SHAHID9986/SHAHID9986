@@ -1,71 +1,299 @@
-# 👋 Hi, I'm Shahid Anwar
+<h1 align="center">Hey there, I'm Shahid Anwar 👋</h1>
 
-### 🚀 Aspiring Software Engineer | Java Developer | Full Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Shahid%20Anwar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-I am passionate about building web applications and learning new technologies.
-I enjoy solving problems, improving my coding skills, and working on real-world projects.
+<h2 align="center">
+  Full Stack Java Developer | Spring Boot | REST APIs | MySQL
+</h2>
 
----
+<p align="center">
+  Building secure backend systems, scalable APIs & full-stack web applications 🚀
+</p>
 
-## 💫 About Me
+<p align="center">
 
-- 🔭 I’m currently working on **Full Stack Development**
-- 🌱 I’m currently learning **Java, Spring Boot & Frontend Development**
-- 💻 I enjoy solving **DSA and coding problems**
-- 🎯 My goal is to become a **skilled Software Engineer**
-- 🤝 I’m open to collaborating on interesting projects
-- ⚡ I love learning new technologies
+<a href="https://github.com/SHAHID9986">
+<img src="https://img.shields.io/badge/GITHUB-SHAHID9986-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="mailto:shahidanwar3639@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-SHAHIDANWAR3639-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🌐 Connect With Me
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-SHAHID%20ANWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-anwar-10605625a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shahid_Anwar/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jovial_bird_86)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidanwar3639@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Technologies
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-
-### Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-![Shahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAHID9986&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID9986&layout=compact&theme=dark)
+- 💻 Full Stack Java Developer focused on **Spring Boot, REST APIs & MySQL**
+- 🔐 Experienced in **JWT, OAuth 2.0 & Spring Security**
+- 🏗️ Comfortable building applications using **Controller–Service–Repository architecture**
+- 🧠 Strong understanding of **Java OOPs, Collections, Multithreading & Design Patterns**
+- 🛠️ Hands-on experience with **Hibernate/JPA, MySQL, React & JavaScript**
+- 👨‍💻 Completed a **3-month Backend Developer Internship at Intoxia Technologies Pvt. Ltd.**
+- 🧩 Solved **400+ DSA problems on LeetCode & CodeChef**
+- 🏆 Solved **1,300+ questions across coding platforms**
+- 🌱 Interested in building secure, scalable and real-world software systems
 
 ---
 
-## 🧩 Coding Profiles
+# 💼 Experience
 
-- 💻 **LeetCode:** [Visit My Profile](https://leetcode.com/u/Shahid_Anwar/)
-- 🏆 **CodeChef:** [Visit My Profile](https://www.codechef.com/users/jovial_bird_86)
+### Backend Developer Intern
+**Intoxia Technologies Pvt. Ltd. — Remote**
+
+**Duration: 3 Months**
+
+- Developed Spring Boot backend modules using **Controller–Service–Repository architecture**
+- Designed and implemented **10+ RESTful API endpoints**
+- Added request validation, global exception handling and standardized JSON responses
+- Implemented **JWT authentication** including token generation, validation and refresh flows
+- Configured **Spring Security with Role-Based Access Control (RBAC)**
+- Used **Hibernate/JPA with MySQL** for database operations
+- Participated in code reviews, debugging and API testing using **Postman**
+- Worked in an agile development environment
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 🏅 Coding Profiles
 
-**Let's build something amazing together! 🚀**
+<p align="center">
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LEETCODE-400%2B%20DSA%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_CODECHEF_URL">
+<img src="https://img.shields.io/badge/CODECHEF-DSA%20%26%20COMPETITIVE%20PROGRAMMING-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<b>🔥 400+ DSA Problems</b> &nbsp; | &nbsp;
+<b>🏆 1,300+ Questions Solved Overall</b>
+
+</p>
+
+---
+
+# 🧰 Tech Stack
+
+## ☕ Languages & Core
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OOPs-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collections-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multithreading-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-007396?style=for-the-badge"/>
+
+</p>
+
+## 🍃 Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge"/>
+
+</p>
+
+## 🌐 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,jquery"/>
+
+</p>
+
+## 🗄️ Database & ORM
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate%2FJPA-59666C?style=for-the-badge"/>
+
+</p>
+
+## 🛠️ DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,maven,postman"/>
+
+</p>
+
+---
+
+# 🎯 Focus Areas
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FULL%20STACK-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA%20DEVELOPMENT-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BACKEND-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-8E24AA?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🏥 Doctor Appointment & Health Management System
+
+A full-stack healthcare platform where patients can book appointments, doctors can manage availability, and administrators can oversee the complete system.
+
+### 🔧 Key Features
+
+- 👤 Role-based access for Patients, Doctors & Admins
+- 🔐 JWT & OAuth 2.0 authentication
+- 🛡️ Secure role-based authorization
+- 📅 Doctor availability & appointment management
+- 🗄️ Patient records and appointment history
+- ⚡ Optimized database queries
+- 🔄 Hibernate/JPA based persistence
+
+### 💻 Tech Stack
+
+`Spring Boot` `MySQL` `JWT` `OAuth 2.0` `Hibernate/JPA` `REST APIs`
+
+[🔗 View Repository](YOUR_DOCTOR_APPOINTMENT_REPO)
+
+---
+
+## 🧠 KnowledgeBridge — AI-Powered Q&A Platform
+
+A Stack Overflow-style knowledge-sharing platform designed for question posting, answers, voting, search and reputation-based user engagement.
+
+### 🔧 Key Features
+
+- ❓ Question posting & answer submission
+- 👍 Upvote / Downvote system
+- ⭐ Automated best-answer selection
+- 🔐 User / Moderator / Admin RBAC
+- 🔎 Full-text search
+- 🏷️ Tag-based filtering
+- 📊 User reputation scoring
+- 🛡️ Content moderation capabilities
+
+### 💻 Tech Stack
+
+`Spring Boot` `MySQL` `JWT` `OAuth 2.0` `REST APIs`
+
+[🔗 View Repository](YOUR_KNOWLEDGEBRIDGE_REPO)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SHAHID9986&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHID9986&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID9986&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Certifications & Achievements
+
+- 🥇 **400+ DSA Problems** — LeetCode & CodeChef
+- 🏆 **1,300+ Questions Solved** — Across coding platforms
+- ☕ **Core Java Certification** — OOPs, Collections & Multithreading — INCAPP
+- 🍃 **Advanced Java / Spring Boot Certification** — INCAPP
+- 🌐 **Web Development Certification** — HTML, CSS, JavaScript & jQuery — INCAPP
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor of Technology — Computer Science Engineering
+
+**United College of Engineering & Research**  
+Greater Noida, Gautam Buddha Nagar, Uttar Pradesh
+
+**Percentage:** 80%  
+**Duration:** Nov 2022 – Apr 2026
+
+---
+
+### 📚 Higher Secondary — Class XII
+
+**GM High School**  
+Barharia, Siwan, Bihar
+
+**Percentage:** 75%  
+**Duration:** Apr 2020 – Jul 2021
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-SHAHID%20ANWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shahidanwar3639@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-SHAHIDANWAR3639-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SHAHID9986">
+<img src="https://img.shields.io/badge/GITHUB-SHAHID9986-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💬 <b>"Building secure, scalable and meaningful software with Java & modern technologies."</b>
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>
