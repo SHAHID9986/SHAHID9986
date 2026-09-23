@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/GMAIL-SHAHIDANWAR3639-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shahid-anwar-10605625a">
 <img src="https://img.shields.io/badge/LINKEDIN-SHAHID%20ANWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -66,11 +66,11 @@
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/Shahid_AnwarLeetCode/">
 <img src="https://img.shields.io/badge/LEETCODE-400%2B%20DSA%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_CODECHEF_URL">
+<a href="https://www.codechef.com/users/jovial_bird_86">
 <img src="https://img.shields.io/badge/CODECHEF-DSA%20%26%20COMPETITIVE%20PROGRAMMING-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
@@ -272,7 +272,7 @@ Barharia, Siwan, Bihar
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shahid-anwar-10605625a">
 <img src="https://img.shields.io/badge/LINKEDIN-SHAHID%20ANWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -282,6 +282,14 @@ Barharia, Siwan, Bihar
 
 <a href="https://github.com/SHAHID9986">
 <img src="https://img.shields.io/badge/GITHUB-SHAHID9986-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Shahid_AnwarLeetCode/">
+<img src="https://img.shields.io/badge/LEETCODE-SHAHID_ANWAR-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/jovial_bird_86">
+<img src="https://img.shields.io/badge/CODECHEF-JOVIAL_BIRD_86-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
