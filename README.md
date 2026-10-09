@@ -13,19 +13,15 @@
 </p>
 
 <p align="center">
-
-<a href="https://github.com/SHAHID9986">
-<img src="https://img.shields.io/badge/GITHUB-SHAHID9986-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:shahidanwar3639@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-SHAHIDANWAR3639-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shahid-anwar-10605625a">
-<img src="https://img.shields.io/badge/LINKEDIN-SHAHID%20ANWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/SHAHID9986">
+    <img src="https://img.shields.io/badge/GITHUB-SHAHID9986-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:shahidanwar3639@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-SHAHIDANWAR3639-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahid-anwar-10605625a">
+    <img src="https://img.shields.io/badge/LINKEDIN-SHAHID%20ANWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -65,22 +61,20 @@
 # 🏅 Coding Profiles
 
 <p align="center">
-
-<a href="https://leetcode.com/u/Shahid_AnwarLeetCode/">
-<img src="https://img.shields.io/badge/LEETCODE-400%2B%20DSA%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/jovial_bird_86">
-<img src="https://img.shields.io/badge/CODECHEF-DSA%20%26%20COMPETITIVE%20PROGRAMMING-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+  <a href="https://leetcode.com/u/Shahid_Anwar/">
+    <img src="https://img.shields.io/badge/LEETCODE-400%2B%20DSA%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode — 400+ DSA Problems"/>
+  </a>
+  <a href="https://www.codechef.com/users/jovial_bird_86">
+    <img src="https://img.shields.io/badge/CODECHEF-DSA%20%26%20COMPETITIVE%20PROGRAMMING-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://codolio.com/profile/Shahid86">
+    <img src="https://img.shields.io/badge/CODOLIO-PROFILE-6C63FF?style=for-the-badge" alt="Codolio Profile"/>
+  </a>
 </p>
 
 <p align="center">
-
-<b>🔥 400+ DSA Problems</b> &nbsp; | &nbsp;
-<b>🏆 1,300+ Questions Solved Overall</b>
-
+  <b>🔥 400+ DSA Problems</b> &nbsp; | &nbsp;
+  <b>🏆 1,300+ Questions Solved Overall</b>
 </p>
 
 ---
@@ -90,64 +84,50 @@
 ## ☕ Languages & Core
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" alt="Java, JavaScript, HTML, CSS and MySQL"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/OOPs-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Collections-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multithreading-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Patterns-007396?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/OOPs-007396?style=for-the-badge" alt="OOPs"/>
+  <img src="https://img.shields.io/badge/Collections-007396?style=for-the-badge" alt="Collections"/>
+  <img src="https://img.shields.io/badge/Multithreading-007396?style=for-the-badge" alt="Multithreading"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-007396?style=for-the-badge" alt="Design Patterns"/>
 </p>
 
 ## 🍃 Backend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
-
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" alt="Spring, Hibernate and Maven"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" alt="JWT"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge" alt="OAuth 2.0"/>
 </p>
 
 ## 🌐 Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,jquery"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery" alt="HTML, CSS, JavaScript, React and jQuery"/>
 </p>
 
 ## 🗄️ Database & ORM
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hibernate%2FJPA-59666C?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge" alt="JDBC"/>
+  <img src="https://img.shields.io/badge/Hibernate%2FJPA-59666C?style=for-the-badge" alt="Hibernate/JPA"/>
 </p>
 
 ## 🛠️ DevOps & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,maven,postman"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,maven,postman" alt="Git, GitHub, Docker, Kubernetes, Linux, Maven and Postman"/>
 </p>
 
 ---
@@ -155,14 +135,12 @@
 # 🎯 Focus Areas
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/FULL%20STACK-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JAVA%20DEVELOPMENT-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BACKEND-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SECURITY-8E24AA?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/FULL%20STACK-444444?style=for-the-badge" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/JAVA%20DEVELOPMENT-007396?style=for-the-badge" alt="Java Development"/>
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/BACKEND-1565C0?style=for-the-badge" alt="Backend"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/SECURITY-8E24AA?style=for-the-badge" alt="Security"/>
 </p>
 
 ---
@@ -217,21 +195,15 @@ A Stack Overflow-style knowledge-sharing platform designed for question posting,
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHAHID9986&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAHID9986&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHID9986&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHID9986&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID9986&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID9986&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -239,7 +211,7 @@ A Stack Overflow-style knowledge-sharing platform designed for question posting,
 # 🏆 Certifications & Achievements
 
 - 🥇 **400+ DSA Problems** — LeetCode & CodeChef
-- 🏆 **1,300+ Questions Solved** — Across coding platforms
+- 🏆 **1,500+ Questions Solved** — Across coding platforms
 - ☕ **Core Java Certification** — OOPs, Collections & Multithreading — INCAPP
 - 🍃 **Advanced Java / Spring Boot Certification** — INCAPP
 - 🌐 **Web Development Certification** — HTML, CSS, JavaScript & jQuery — INCAPP
@@ -271,37 +243,32 @@ Barharia, Siwan, Bihar
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/shahid-anwar-10605625a">
-<img src="https://img.shields.io/badge/LINKEDIN-SHAHID%20ANWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shahidanwar3639@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-SHAHIDANWAR3639-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SHAHID9986">
-<img src="https://img.shields.io/badge/GITHUB-SHAHID9986-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Shahid_AnwarLeetCode/">
-<img src="https://img.shields.io/badge/LEETCODE-SHAHID_ANWAR-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/jovial_bird_86">
-<img src="https://img.shields.io/badge/CODECHEF-JOVIAL_BIRD_86-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/shahid-anwar-10605625a">
+    <img src="https://img.shields.io/badge/LINKEDIN-SHAHID%20ANWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shahidanwar3639@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-SHAHIDANWAR3639-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/SHAHID9986">
+    <img src="https://img.shields.io/badge/GITHUB-SHAHID9986-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Shahid_Anwar/">
+    <img src="https://img.shields.io/badge/LEETCODE-SHAHID%5FANWAR-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/jovial_bird_86">
+    <img src="https://img.shields.io/badge/CODECHEF-JOVIAL%5FBIRD%5F86-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://codolio.com/profile/Shahid86">
+    <img src="https://img.shields.io/badge/CODOLIO-SHAHID86-6C63FF?style=for-the-badge" alt="Codolio"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-💬 <b>"Building secure, scalable and meaningful software with Java & modern technologies."</b>
-
+  💬 <b>"Building secure, scalable and meaningful software with Java & modern technologies."</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" alt="Footer banner"/>
 </p>
