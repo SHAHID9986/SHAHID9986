@@ -35,7 +35,7 @@
 - 🛠️ Hands-on experience with **Hibernate/JPA, MySQL, React & JavaScript**
 - 👨‍💻 Completed a **3-month Backend Developer Internship at Intoxia Technologies Pvt. Ltd.**
 - 🧩 Solved **400+ DSA problems on LeetCode & CodeChef**
-- 🏆 Solved **1,300+ questions across coding platforms**
+- 🏆 Solved **1,700+ questions across coding platforms**
 - 🌱 Interested in building secure, scalable and real-world software systems
 
 ---
@@ -74,7 +74,7 @@
 
 <p align="center">
   <b>🔥 400+ DSA Problems</b> &nbsp; | &nbsp;
-  <b>🏆 1,300+ Questions Solved Overall</b>
+  <b>🏆 1,700+ Questions Solved Overall</b>
 </p>
 
 ---
@@ -211,7 +211,7 @@ A Stack Overflow-style knowledge-sharing platform designed for question posting,
 # 🏆 Certifications & Achievements
 
 - 🥇 **400+ DSA Problems** — LeetCode & CodeChef
-- 🏆 **1,500+ Questions Solved** — Across coding platforms
+- 🏆 **1,700+ Questions Solved** — Across coding platforms
 - ☕ **Core Java Certification** — OOPs, Collections & Multithreading — INCAPP
 - 🍃 **Advanced Java / Spring Boot Certification** — INCAPP
 - 🌐 **Web Development Certification** — HTML, CSS, JavaScript & jQuery — INCAPP
