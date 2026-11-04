@@ -43,7 +43,7 @@
 # 💼 Experience
 
 ### Backend Developer Intern
-**Intoxia Technologies Pvt. Ltd. — Remote**
+**Zidio Development Pvt. Ltd. — Remote**
 
 **Duration: 3 Months**
 
