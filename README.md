@@ -56,7 +56,7 @@
 - Participated in code reviews, debugging and API testing using **Postman**
 - Worked in an agile development environment
 
----
+----
 
 # 🏅 Coding Profiles
 
