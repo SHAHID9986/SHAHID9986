@@ -74,7 +74,7 @@
 
 <p align="center">
   <b>🔥 400+ DSA Problems</b> &nbsp; | &nbsp;
-  <b>🏆 1,700+ Questions Solved Overall</b>
+  <b>🏆 1,800+ Questions Solved Overall</b>
 </p>
 
 ---
