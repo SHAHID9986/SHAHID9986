@@ -33,9 +33,9 @@
 - 🏗️ Comfortable building applications using **Controller–Service–Repository architecture**
 - 🧠 Strong understanding of **Java OOPs, Collections, Multithreading & Design Patterns**
 - 🛠️ Hands-on experience with **Hibernate/JPA, MySQL, React & JavaScript**
-- 👨‍💻 Completed a **3-month Backend Developer Internship at Intoxia Technologies Pvt. Ltd.**
+- 👨‍💻 Completed a **6-month Backend Developer Internship at Codules Technologies Pvt. Ltd.**
 - 🧩 Solved **400+ DSA problems on LeetCode & CodeChef**
-- 🏆 Solved **1,700+ questions across coding platforms**
+- 🏆 Solved **1,800+ questions across coding platforms**
 - 🌱 Interested in building secure, scalable and real-world software systems
 
 ----
@@ -43,9 +43,9 @@
 # 💼 Experience
 
 ### Backend Developer Intern
-**Zidio Development Pvt. Ltd. — Remote**
+**Codules Technologies Pvt. Ltd. — Remote**
 
-**Duration: 3 Months**
+**Duration: 6 Months**
 
 - Developed Spring Boot backend modules using **Controller–Service–Repository architecture**
 - Designed and implemented **10+ RESTful API endpoints**
@@ -211,7 +211,7 @@ A Stack Overflow-style knowledge-sharing platform designed for question posting,
 # 🏆 Certifications & Achievements
 
 - 🥇 **400+ DSA Problems** — LeetCode & CodeChef
-- 🏆 **1,700+ Questions Solved** — Across coding platforms
+- 🏆 **1,800+ Questions Solved** — Across coding platforms
 - ☕ **Core Java Certification** — OOPs, Collections & Multithreading — INCAPP
 - 🍃 **Advanced Java / Spring Boot Certification** — INCAPP
 - 🌐 **Web Development Certification** — HTML, CSS, JavaScript & jQuery — INCAPP
