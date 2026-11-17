@@ -38,7 +38,7 @@
 - 🏆 Solved **1,700+ questions across coding platforms**
 - 🌱 Interested in building secure, scalable and real-world software systems
 
----
+----
 
 # 💼 Experience
 
