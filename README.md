@@ -211,7 +211,7 @@ A Stack Overflow-style knowledge-sharing platform designed for question posting,
 # 🏆 Certifications & Achievements
 
 - 🥇 **400+ DSA Problems** — LeetCode & CodeChef
-- 🏆 **1,800+ Questions Solved** — Across coding platforms
+- 🏆 **1,900+ Questions Solved** — Across coding platforms
 - ☕ **Core Java Certification** — OOPs, Collections & Multithreading — INCAPP
 - 🍃 **Advanced Java / Spring Boot Certification** — INCAPP
 - 🌐 **Web Development Certification** — HTML, CSS, JavaScript & jQuery — INCAPP
