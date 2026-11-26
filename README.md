@@ -35,7 +35,7 @@
 - 🛠️ Hands-on experience with **Hibernate/JPA, MySQL, React & JavaScript**
 - 👨‍💻 Completed a **6-month Backend Developer Internship at Codules Technologies Pvt. Ltd.**
 - 🧩 Solved **400+ DSA problems on LeetCode & CodeChef**
-- 🏆 Solved **1,800+ questions across coding platforms**
+- 🏆 Solved **1,900+ questions across coding platforms**
 - 🌱 Interested in building secure, scalable and real-world software systems
 
 ----
